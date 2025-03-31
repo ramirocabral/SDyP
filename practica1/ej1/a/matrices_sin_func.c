@@ -59,7 +59,6 @@ int main(int argc,char*argv[]) {
 
     //Inicializa las matrices A y B en 1, el resultado sera una matriz con todos sus valores en N
     for(i=0;i<N;i++){
-
         for(j=0;j<N;j++){
         // setValor(A,i,j,ORDENXFILAS,1);
         // setValor(B,i,j,ORDENXFILAS,1);
